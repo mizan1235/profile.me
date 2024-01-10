@@ -56,7 +56,7 @@ const ContactCard = () => {
                         </div>
                         <div>
                             <a href="https://www.linkedin.com/in/mizanur-rahman-66b806248/" target="_blank" rel="noopener noreferrer">
-                                <img src="../../profile.me/Images/linkedIn.jpeg" alt="linkedIn" className='footer-image' />
+                                <img src="../../profile.me/Images/linkedin.jpeg" alt="linkedIn" className='footer-image' />
                             </a>
 
                         </div>
