@@ -68,7 +68,7 @@ const ProjectCard = () => {
           <h2>Weather</h2>
         <div className='image-filed'>
             <a href="https://mizan1235.github.io/weather_forcast/" target='_blank' rel="noreferrer">
-          <img src="../../profile.me/Images/weather.png" alt="Weather" /></a>
+          <img src="../../profile.me/Images/weather_forcast.png" alt="Weather" /></a>
           </div>
           
           
