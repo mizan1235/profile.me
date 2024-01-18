@@ -49,7 +49,7 @@ const Footer = () => {
 
     </div>
     <div className='copyright'>
-      <p>&copy; 2023 Online Job Portal</p>
+      <p>&copy;2023 Online Job Portal</p>
     </div>
     </div>
   )
