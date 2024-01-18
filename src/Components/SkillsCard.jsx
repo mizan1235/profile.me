@@ -46,11 +46,11 @@ const SkillsCard = () => {
           <h3>Others</h3>
           <div className='skill-val'>
             <div style={{ 'color': 'blue', 'font-size': '25px' }} className='item-12'> &#10004;</div>
-            <div className='item-12'> <h4>C/c++</h4></div>
+            <div className='item-12'> <h4>C/C++</h4></div>
           </div>
           <div className='skill-val'>
             <div style={{ 'color': 'blue', 'font-size': '25px' }} className='item-12'> &#10004;</div>
-            <div className='item-12'> <h4>python</h4></div>
+            <div className='item-12'> <h4>Python</h4></div>
           </div>
           <div className='skill-val'>
             <div style={{ 'color': 'blue', 'font-size': '25px' }} className='item-12'> &#10004;</div>
