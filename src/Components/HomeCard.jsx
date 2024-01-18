@@ -14,7 +14,7 @@ const HomeCard = () => {
                     <h2>Mizanur Rahman</h2>
                     <h5 className='project-item'>
           
-                I have more than 1 years' experience building rich web applications for clients all over the world. .</h5>
+                I have more than 1 years' experience building rich web applications for clients all over the world.Below is a quick overview of my main technical skill sets and tools I use .</h5>
                 </div>
 
             </div>
