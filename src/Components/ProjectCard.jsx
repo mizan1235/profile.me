@@ -72,6 +72,10 @@ const ProjectCard = () => {
           </div>
           
           
+          <div className='skill-val'>
+            
+            <div className='item-12'> <h4>React</h4></div>
+          </div>
           
           <div className='skill-val'>
             
