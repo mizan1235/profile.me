@@ -16,7 +16,7 @@ const ProjectCard = () => {
         <div className='skill-element'>
           <h2>Ecommerce</h2>
           <div className='image-filed'>
-            <a href="https://mizan1235.github.io/Ecommerce_project/" target='_blank' rel="noreferrer">
+            <a href="https://mizan1235.github.io/Ecommerce_Frontend_final/" target='_blank' rel="noreferrer">
           <img src="../../profile.me/Images/ecommerce.png" alt="Ecommerce" /></a>
           </div>
              
